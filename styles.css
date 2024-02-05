@@ -25,7 +25,8 @@
     width: auto;  
     color: whitesmoke; 
 }
-.header-title h1{
+.header-title h1, .header-title p{ 
+    color: whitesmoke; 
     padding: 10px 20px;
     font-size: 36px;
     background-color: rgba(197, 197, 197, 0.253);
